@@ -77,7 +77,7 @@ Full Stack Developer specializing in React, Next.js, and Node.js with proven abi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksaxena03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Akhil's Streak](https://streak-stats.demolab.com?user=aksaxena03&theme=radical)](https://git.io/streak-stats)
+[![Akhil's Streak](https://streak-stats.demolab.com/?user=aksaxena03&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
