@@ -73,16 +73,16 @@ Full Stack Developer specializing in React, Next.js, and Node.js with proven abi
 
 <div align="center">
 
-[![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksaxena03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksaxena03&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksaxena03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Akhil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aksaxena03&theme=radical)](https://git.io/streak-stats)
+[![Akhil's Streak](https://streak-stats.demolab.com?user=aksaxena03&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
 ## 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/aksaxena03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aksaxena03" height="30" width="40" /></a>
-<a href="mailto:aksaxena0333@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aksaxena0333@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aksaxena03" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aksaxena03" /></a>
+<a href="mailto:aksaxena0333@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aksaxena0333@gmail.com" /></a>
 </p>
